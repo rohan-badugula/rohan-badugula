@@ -97,34 +97,6 @@
 </p>
 
 
----
-
-## 📊 GitHub Profile Stats
-
-<div align="center">
-  
-  <!-- GitHub Stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Rohan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rohan-badugula&show_icons=true&theme=radical&hide_border=true" height="180px"/>
-  </a>
-  
-  <!-- Streak Stats -->
-  <a href="https://git.io/streak-stats">
-    <img alt="Rohan's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=rohan-badugula&theme=radical&hide_border=true" height="180px"/>
-  </a>
-  
-</div>
-
-<div align="center">
-  
-  <!-- Most Used Languages -->
-  <img alt="Rohan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-badugula&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
-  
-</div>
-
----
-
-
 ## 🤝 Connect With Me
 
 <p align="center">
